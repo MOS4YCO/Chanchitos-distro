@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "rss": "https://página-de-noticias-opcional.com/rss",
+  "servers": [
+    {
+      "id": "chanchitos-survival",
+      "name": "ChanchitosPUQ Server",
+      "description": "Servidor Oficial de la Comunidad ChanchitosPUQ",
+      "icon": "https://raw.githubusercontent.com/tu-usuario/mi-launcher-repo/main/logo.png",
+      "version": "1.20.1",
+      "address": "play.tu-servidor.com:25565",
+      "modules": []
+    }
+  ]
+}
