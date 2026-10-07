@@ -1,2 +1,3 @@
 # Chanchitos-distro
-launcher para
+launcher para los chanchitosPUQ xd
+
